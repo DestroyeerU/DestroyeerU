@@ -11,5 +11,5 @@ app/api?username=DestroyeerU&show_icons=true&theme=dracula&include_all_commits=t
 
 - 🔭 I’m currently working on the next point.
 - 🌱 I’m currently learning everything that I can get my hands on.
-- 👯 I'm looking to collaborate on blockchain open source community.
+- 👯 I'm looking to collaborate on web3 open source community.
 - ⚡ Fun fact: I can't stop watching an anime once I start.
